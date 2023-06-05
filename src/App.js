@@ -63,13 +63,13 @@ function App() {
         <div className="title-area">
           {!leftSideBarCollapsed ? (
             <Typography style={{ color: 'white' }}>
-              FFXIV総合素材計算機
+              FFXIV_Materials_Calculator
             </Typography>
           ) : (
-            <Typography style={{ color: 'white' }}>CTM</Typography>
+              <Typography style={{ color: 'white' }}>FMC</Typography>
           )}
           {!leftSideBarCollapsed && (
-            <Typography style={{ color: 'white' }}>v0.1.0</Typography>
+            <Typography style={{ color: 'white' }}>プルミエ商会</Typography>
           )}
         </div>
 
@@ -107,7 +107,7 @@ function App() {
         <Footer style={{ textAlign: 'center', fontSize: 12 }}>
           FINAL FANTASY is a registered trademark of Square Enix Holdings Co.
           Ltd. <br />
-          FINAL FANTASY XIV © 2010 - 2022 SQUARE ENIX CO., LTD. All Rights
+          FINAL FANTASY XIV © 2010 - 2023 SQUARE ENIX CO., LTD. All Rights
           Reserved.
         </Footer>
       </Layout>
@@ -168,3 +168,4 @@ function App() {
 }
 
 export default App;
+
