@@ -105,10 +105,8 @@ function App() {
           {pageKey === 'Setting' && <Setting />}
         </Content>
         <Footer style={{ textAlign: 'center', fontSize: 12 }}>
-          FINAL FANTASY is a registered trademark of Square Enix Holdings Co.
-          Ltd. <br />
-          FINAL FANTASY XIV © 2010 - 2023 SQUARE ENIX CO., LTD. All Rights
-          Reserved.
+          記載されている会社名・製品名・システム名などは、各社の商標、または登録商標です。<br />
+          Copyright (C) 2010 - 2023 SQUARE ENIX CO., LTD. All Rights Reserved.
         </Footer>
       </Layout>
       <Sider
