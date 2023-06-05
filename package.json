@@ -1,6 +1,6 @@
 {
-  "name": "ffxiv_crafting_total_material",
-  "homepage": "http://freez2385.github.io/ffxiv-crafting-total-material/",
+  "name": "ffxiv-material-calculator",
+  "homepage": "./",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
