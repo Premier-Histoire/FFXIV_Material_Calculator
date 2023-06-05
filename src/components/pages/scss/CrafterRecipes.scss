@@ -1,0 +1,25 @@
+.crafter-recipes {
+  width: 100%;
+  height: 100%;
+  overflow-y: auto;
+  justify-content: center;
+
+  .header-area {
+    background-color: #ffffff;
+    padding: 15px;
+
+    margin: 5px;
+    margin-top: 20px;
+    border-radius: 20px;
+    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.1), 0 4px 4px 0 rgba(0, 0, 0, 0.09);
+  }
+  .table-area {
+    background-color: #ffffff;
+    padding: 5px;
+
+    margin: 5px;
+    margin-top: 20px;
+    border-radius: 20px;
+    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.1), 0 4px 4px 0 rgba(0, 0, 0, 0.09);
+  }
+}

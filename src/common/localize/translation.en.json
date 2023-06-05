@@ -1,0 +1,40 @@
+{
+
+    "carpenter": "Carpenter",
+    "blacksmith": "Blacksmith",
+    "armorer": "Armorer",
+    "goldsmith": "Goldsmith",
+    "leatherworker": "Leatherworker",
+    "weaver": "Weaver",
+    "alchemist": "Alchemist",
+    "culinarian": "Culinarian",
+
+
+    "left-sidemenu-1": "Crafting Logs",
+    "left-sidemenu-setting": "Setting",
+
+    "right-sidemenu-title": "Crafting List",
+    "right-sidemenu-calbutton": "Calculate the Material",
+    "right-sidemenu-calbutton-collasped": "Calculate",
+
+    "crafter-recipes-title": "Find Crafting Log",
+    "crafter-recipes-pulldown-leveling": "Leveling",
+
+    "setting-language": "Language",
+    "setting-contact": "Contact / Feedback",
+
+    "material-list-title": "Material Lists of calculation of Crafing List",
+    "material-list-loading": "Tataru is calculating material on your crafting list...",
+    "material-list-craftinglist": "Crafting List",
+    "material-list-crystal": "Crystal Lists",
+    "material-list-level1": "Material Level 1",
+    "material-list-level2": "Material Level 2",
+    "material-list-level3": "Material Level 3",
+    "material-list-level4": "Material Level 4",
+
+    "material-list-popover-nomaterial": "There is no Material",
+    "material-list-popover-title": "`s Material List",
+
+
+    "recipe-table-column-item": "Item"
+  }

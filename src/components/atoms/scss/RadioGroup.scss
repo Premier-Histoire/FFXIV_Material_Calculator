@@ -1,0 +1,26 @@
+.radio-group {
+  .ant-radio-button-wrapper {
+    position: relative;
+    display: inline-block;
+    height: 32px;
+    margin: 0;
+    padding: 0 15px;
+    color: rgba(0, 0, 0, 0.85);
+    font-size: 14px;
+    line-height: 30px;
+    background: #fff;
+    border-style: dashed;
+    border-radius: 32px;
+    border-top-width: 1.02px;
+    border-left-width: 1.02px;
+    margin: 5px;
+    cursor: pointer;
+    transition: color 0.3s, background 0.3s, border-color 0.3s, box-shadow 0.3s;
+  }
+  .ant-radio-button-wrapper-checked:not(.ant-radio-button-wrapper-disabled)::before {
+    background-color: rgba(0, 0, 0, 0);
+  }
+  .ant-radio-button-wrapper:not(:first-child)::before {
+    background-color: rgba(0, 0, 0, 0);
+  }
+}
