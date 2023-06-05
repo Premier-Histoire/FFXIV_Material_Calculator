@@ -1,35 +1,22 @@
-# FFXIV CRAFTING TOTAL MATERIAL
+# FFXIV_Material_Caluculator
 
-URL : http://freez2385.github.io/ffxiv-crafting-total-material
+## コピーライト
 
-![readme1](README/image/screenshot1.png)
+本アプリは非商用アプリです。ファイナルファンタジーXIV（以下「**FFXIV**」）は、アート、テキスト、ロゴなど、著作権および/または商標権のある素材から構成されています。
 
-## CopyRight
-
-This application is Non-commercial application. Final Fantasy XIV ("**FFXIV**") is comprised of materials such as art, text and logos that are copyrighted and/or trademarked.
-
-## Application Configuration
+## アプリケーション構成
 
 - ReactJS
 - XIVAPI
 - Ant Design
 
-## How about using this application
+## このアプリケーションを使ってみてはいかがでしょうか
 
-This application is useful of getting material many kinds of recipe one time in ffxiv crafter. Select the recipe and press the Calculate the material button on the bottom right. And you can see the all material how many amounts and what kinds of material in your recipes.
+このアプリケーションは、ffxivクラフターで、一度に多くの種類のレシピの材料を得るのに便利です。レシピを選択し、右下の素材計算ボタンを押します。すると、レシピに含まれる全ての素材が何種類で何個なのかが表示されます。
 
-![readme2](README/image/screenshot3.png)
+### 使用可能な言語
 
-### Available Language
-
-- English(Default)
-- Japanese
+- 日本語(標準)
+- English
 
 
-
-## TODO List
-
-- Set mobile version display
-- get equipment recipes each jobs level
-- checked low level material automatically if corresponding to material check 
-- Search name in recipe table
