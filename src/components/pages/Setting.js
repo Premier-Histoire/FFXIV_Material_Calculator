@@ -67,7 +67,7 @@ function Setting() {
             style={{ marginRight: 20 }}
             onClick={() =>
               window.location.assign(
-                'https://github.com/FREEZ2385/ffxiv_crafting_material_total'
+                'https://github.com/Premier-Histoire/FFXIV_Material_Calculator'
               )
             }
           >
