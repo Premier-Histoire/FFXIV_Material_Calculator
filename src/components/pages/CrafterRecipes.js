@@ -67,7 +67,7 @@ function CrafterRecipes() {
       <div className="table-area">
         <Row
           justify="center"
-          style={{ height: 'calc(85vh - 220px)', padding: '20px' }}
+          style={{ height: 'calc(80vh - 220px)', padding: '20px' }}
         >
           <Col span={1}></Col>
           <Col span={22} style={{ textAlign: 'center', fontSize: 32 }}>
