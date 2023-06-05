@@ -36,7 +36,7 @@ function App() {
   const [materialListOpen, setMaterialListOpen] = useState(false);
 
   const calButtonStyle = {
-    backgroundColor: '#005580',
+    backgroundColor: '#24292f',
     color: '#ffffff',
     position: 'absolute',
     height: 60,
