@@ -77,7 +77,7 @@ function CrafterRecipes() {
                   { name: 'icon', title: '', width: 60, align: 'center' },
                   {
                     name: 'name',
-                    title: 'Name',
+                    title: 'アイテム名',
                     align: 'left',
                   },
                 ]}
