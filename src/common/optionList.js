@@ -66,4 +66,6 @@ export const crafterRecipesPullDownOptions = [
   { text: '76 ~ 80', value: 'lev-16' },
   { text: '81 ~ 85', value: 'lev-17' },
   { text: '86 ~ 90', value: 'lev-18' },
+  { text: '91 ~ 95', value: 'lev-19' },
+  { text: '96 ~ 100', value: 'lev-20' },
 ];

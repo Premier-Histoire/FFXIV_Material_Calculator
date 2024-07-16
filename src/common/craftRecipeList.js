@@ -18,6 +18,8 @@ const recipeTableList = {
     'lev-16': { id: 8, minLevel: '76', maxLevel: '80' },
     'lev-17': { id: 8, minLevel: '81', maxLevel: '85' },
     'lev-18': { id: 8, minLevel: '86', maxLevel: '90' },
+    'lev-19': { id: 8, minLevel: '91', maxLevel: '95' },
+    'lev-20': { id: 8, minLevel: '96', maxLevel: '100' },
   },
   Blacksmith: {
     'lev-1': { id: 9, minLevel: '1', maxLevel: '5' },
@@ -38,6 +40,8 @@ const recipeTableList = {
     'lev-16': { id: 9, minLevel: '76', maxLevel: '80' },
     'lev-17': { id: 9, minLevel: '81', maxLevel: '85' },
     'lev-18': { id: 9, minLevel: '86', maxLevel: '90' },
+    'lev-19': { id: 9, minLevel: '91', maxLevel: '95' },
+    'lev-20': { id: 9, minLevel: '96', maxLevel: '100' },
   },
   Armorer: {
     'lev-1': { id: 10, minLevel: '1', maxLevel: '5' },
@@ -58,6 +62,8 @@ const recipeTableList = {
     'lev-16': { id: 10, minLevel: '76', maxLevel: '80' },
     'lev-17': { id: 10, minLevel: '81', maxLevel: '85' },
     'lev-18': { id: 10, minLevel: '86', maxLevel: '90' },
+    'lev-19': { id: 10, minLevel: '91', maxLevel: '95' },
+    'lev-20': { id: 10, minLevel: '96', maxLevel: '100' },
   },
   Goldsmith: {
     'lev-1': { id: 11, minLevel: '1', maxLevel: '5' },
@@ -78,6 +84,8 @@ const recipeTableList = {
     'lev-16': { id: 11, minLevel: '76', maxLevel: '80' },
     'lev-17': { id: 11, minLevel: '81', maxLevel: '85' },
     'lev-18': { id: 11, minLevel: '86', maxLevel: '90' },
+    'lev-19': { id: 11, minLevel: '91', maxLevel: '95' },
+    'lev-20': { id: 11, minLevel: '96', maxLevel: '100' },
   },
   Leatherworker: {
     'lev-1': { id: 12, minLevel: '1', maxLevel: '5' },
@@ -98,6 +106,8 @@ const recipeTableList = {
     'lev-16': { id: 12, minLevel: '76', maxLevel: '80' },
     'lev-17': { id: 12, minLevel: '81', maxLevel: '85' },
     'lev-18': { id: 12, minLevel: '86', maxLevel: '90' },
+    'lev-19': { id: 12, minLevel: '91', maxLevel: '95' },
+    'lev-20': { id: 12, minLevel: '96', maxLevel: '100' },
   },
   Weaver: {
     'lev-1': { id: 13, minLevel: '1', maxLevel: '5' },
@@ -118,6 +128,8 @@ const recipeTableList = {
     'lev-16': { id: 13, minLevel: '76', maxLevel: '80' },
     'lev-17': { id: 13, minLevel: '81', maxLevel: '85' },
     'lev-18': { id: 13, minLevel: '86', maxLevel: '90' },
+    'lev-19': { id: 13, minLevel: '91', maxLevel: '95' },
+    'lev-20': { id: 13, minLevel: '96', maxLevel: '100' },
   },
   Alchemist: {
     'lev-1': { id: 14, minLevel: '1', maxLevel: '5' },
@@ -138,6 +150,8 @@ const recipeTableList = {
     'lev-16': { id: 14, minLevel: '76', maxLevel: '80' },
     'lev-17': { id: 14, minLevel: '81', maxLevel: '85' },
     'lev-18': { id: 14, minLevel: '86', maxLevel: '90' },
+    'lev-19': { id: 14, minLevel: '91', maxLevel: '95' },
+    'lev-20': { id: 14, minLevel: '96', maxLevel: '100' },
   },
   Culinarian: {
     'lev-1': { id: 15, minLevel: '1', maxLevel: '5' },
@@ -158,6 +172,8 @@ const recipeTableList = {
     'lev-16': { id: 15, minLevel: '76', maxLevel: '80' },
     'lev-17': { id: 15, minLevel: '81', maxLevel: '85' },
     'lev-18': { id: 15, minLevel: '86', maxLevel: '90' },
+    'lev-19': { id: 15, minLevel: '91', maxLevel: '95' },
+    'lev-20': { id: 15, minLevel: '96', maxLevel: '100' },
   },
 };
 
